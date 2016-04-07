@@ -1,0 +1,23 @@
+.top-header{
+    padding: 15px 10px;
+    background: #4549F6;
+    margin: 10px 0px;
+    color: #fff;
+}
+.titulo {
+    font-size: 24px;
+}
+
+.edit{
+    background: #4549F6;
+    padding: 5px 10px;
+    font-size: 16px;
+    color: #fff;
+}
+
+.delete {
+    background: #AF0826;
+    padding: 5px 12px;
+    font-size: 16px;
+    color: #fff;
+}
